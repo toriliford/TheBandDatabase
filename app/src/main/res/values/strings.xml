@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>AC/DC</item>
+        <item>Bee Gees</item>
+        <item>Black Sabbath</item>
+        <item>Pink Floyd</item>
+        <item>Queen</item>
+
+
+    </string-array>
+
+    <string-array name="description">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An Australian rock band formed in Sydney in 1973.</item>
+        <item>An Australian rock band from Brisbane formed in 1958.</item>
+        <item>An English rock band formed in Birmingham in 1968.</item>
+        <item>An English rock band formed in 1965 in London.</item>
+        <item>An English rock band formed in 1970 in London.</item>
+    </string-array>
+</resources>
